@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-// Function to display the Tic-Tac-Toe board
+// Function to display the Tic-Tac-Toe board.
 void displayBoard(char board[3][3]) {
     printf("\n");
     for (int i = 0; i < 3; i++) {
